@@ -1,11 +1,9 @@
 ## Oi, meu nome é Joannan, mas pode me chamar de Joa 🎈
-
 <div align="center">
-  <a href="https://github.com/joannanl1">
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=joannanl1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joannanl1&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/joannanls">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joannanls&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
