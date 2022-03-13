@@ -1,1 +1,1 @@
-Oi, meu nome é Joannan, mas pode me chamar de Joa.
+Oi, meu nome é Joannan, mas pode me chamar de Joa 🎈
